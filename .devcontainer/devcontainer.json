@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
 
 	// Arguments to run this container with.
-	"runArgs": ["-p=3000:80"]
+	"runArgs": ["-p=3000:3000"]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
